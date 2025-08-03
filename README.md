@@ -8,3 +8,5 @@ This Python script is designed specifically for processing multispectral drone i
 
 
 # Author: Sathish Raymond Emmanuel
+
+# Powered by: Digital Agricultural Technology Lab
